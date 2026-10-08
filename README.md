@@ -1,4 +1,4 @@
-# Verifiable Credentials POC
+# POC/exploration
 
 Exploratory TypeScript proof of concept for modern digital
 identity and Verifiable Credential concepts.
